@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tuenti</string>
+    <string name="telefono">Teléfono o email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="oentra">o entra usando</string>
+    <string name="nopuedes">¿No puedes acceder a tu cuenta?</string>
+</resources>
