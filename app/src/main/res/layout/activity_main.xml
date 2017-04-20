@@ -51,7 +51,8 @@
                 android:textColor="@color/colorAccent"
                 android:layout_marginTop="35dp"
                 android:layout_marginLeft="30dp"
-                android:layout_marginRight="30dp"/>
+                android:layout_marginRight="30dp"
+                android:inputType="textEmailAddress"/>
 
             <EditText
                 android:layout_width="match_parent"
