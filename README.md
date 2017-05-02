@@ -4,11 +4,18 @@ La tarea la subi con la captura original de la aplicacion y la captura de la apl
 
 ## Captura
 
+Mi Captura y Captura Da la aplicacion real
+------------------------------------------
 <div align="center">
     <center>
-        <img src="/captura/micap.png">
-        <img src="/captura/app-original.png">
-    
+        <table border="0">
+            <tr>
+               <td> <img src="/captura/micap.png"></td>
+               <td> <img src="/captura/app-original.png"></td>
+            </tr>
+        </table>
     </center>
 
 </div>
+
+
